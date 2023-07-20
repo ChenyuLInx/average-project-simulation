@@ -1,3 +1,9 @@
 packages:
   - package: dbt-labs/codegen
     version: 0.9.0
+  - package: datnguye/dbt_translate
+    version: 1.0.1
+  - package: dbt-labs/audit_helper
+    version: 0.9.0
+  - package: edanalytics/edu_edfi_source
+    version: 0.2.8
